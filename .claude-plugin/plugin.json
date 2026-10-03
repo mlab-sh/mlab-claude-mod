@@ -1,0 +1,10 @@
+{
+  "name": "cve-hover",
+  "version": "0.1.0",
+  "description": "Highlight CVE IDs in Claude's replies; hover one to see vuln.mlab.sh data",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "mlab.sh"
+  },
+  "repository": "https://github.com/mlab-sh/mlab-claude-mod"
+}
